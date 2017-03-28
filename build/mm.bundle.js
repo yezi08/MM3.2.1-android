@@ -51909,7 +51909,7 @@ angular.module('mm.core')
     "wsextservice" : "local_mobile",
     "gcmpn": "847204461162",
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
+    "siteurl": "http://10.7.4.131/moodle2016/",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
