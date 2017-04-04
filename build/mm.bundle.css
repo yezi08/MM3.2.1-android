@@ -26,7 +26,7 @@
 }
 
 /** remove li a[title="Front page"], a[title="Participants"], a[title="View course report"] */
-.pane .list li a[title=Language],  li a[title="My files"],  a[title="Notes"], a[title="Add a new note"], a[title="Grades"]{
+.pane .list li a[title=Language], li a[title="My files"],  a[title="Notes"], a[title="Add a new note"], a[title="Grades"]{
 display:none !important;
 }
 

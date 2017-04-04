@@ -27,7 +27,7 @@ $dark:                            #444 !default;
   Modified icons to fit ionicon’s grid from original.
 */
 
-/**START: XJTLU ADDITION 03/Aug/2016 - modify css*/
+/**START: XJTLU ADDITION 03/Aug/2016 - modify selected defaults for course reset**/
 #languageChange{
 	display:none !important;
 }
@@ -41,7 +41,7 @@ $dark:                            #444 !default;
 }
 
 /**remove li a[title="Front page"], a[title="Participants"],*/
-.pane .list li a[title=Language],  li a[title="My files"],  a[title="Notes"], a[title="Add a new note"], a[title="Grades"]{
+.pane .list li a[title=Language], li a[title="My files"], a[title="Notes"], a[title="Add a new note"], a[title="Grades"]{
 display:none;
 }
 
