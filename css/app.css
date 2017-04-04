@@ -36,11 +36,11 @@ $dark:                            #444 !default;
 	border-radius:50% !important;
 }
 
-.bar-content .secondary-buttons .ion-plus{
+.nav-bar-container .bar-header .secondary-buttons .ion-plus{
 	display:none !important;
 }
 
-/**remove li a[title="Front page"], a[title="Participants"],*/
+/** remove li a[title="Front page"], a[title="Participants"],*/
 .pane .list li a[title=Language], li a[title="My files"], a[title="Notes"], a[title="Add a new note"], a[title="Grades"]{
 display:none;
 }
