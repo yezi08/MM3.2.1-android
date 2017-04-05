@@ -51906,7 +51906,7 @@ angular.module('mm.core')
     "siteurl": "http://ice.xjtlu.edu.cn/",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
-    "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
+    "privacypolicy": "http://ice.xjtlu.edu.cn/local/staticpage/view.php?page=policy"
 }
 );
 // END: XJTLU ADDITION 03/Aug/2016
